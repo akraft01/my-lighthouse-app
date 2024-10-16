@@ -1,0 +1,1 @@
+Built a Lighthouse accessibility prototype with Nuxt, automating web audits using Node.js and Lighthouse CI for report generation. Deployed with Docker and configured Nginx as a reverse proxy. The prototype was deployed on a Kubernetes cluster with  Helm charts.
